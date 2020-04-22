@@ -1,6 +1,6 @@
 // opérations sur les Tableaux
 
-var ar=[2,5,100,300]
+var ar=[2,5,200,300]
 
 
 //map : à la placede foreach (parcour le tableau et fait les opérations de dmndées)
